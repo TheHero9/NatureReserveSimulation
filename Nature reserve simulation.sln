@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nature reserve simulation", "Nature reserve simulation\Nature reserve simulation.csproj", "{9200B589-8D84-4D1F-B035-38C75D2DF7CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nature reserve simulation Tests", "Nature reserve simulation Tests\Nature reserve simulation Tests.csproj", "{4956E5CB-2CD6-4CC3-A7FB-3425ACA1C3EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9200B589-8D84-4D1F-B035-38C75D2DF7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9200B589-8D84-4D1F-B035-38C75D2DF7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9200B589-8D84-4D1F-B035-38C75D2DF7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9200B589-8D84-4D1F-B035-38C75D2DF7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4956E5CB-2CD6-4CC3-A7FB-3425ACA1C3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4956E5CB-2CD6-4CC3-A7FB-3425ACA1C3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4956E5CB-2CD6-4CC3-A7FB-3425ACA1C3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4956E5CB-2CD6-4CC3-A7FB-3425ACA1C3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169CB251-8840-4384-9C48-2B386BBAFA70}
+	EndGlobalSection
+EndGlobal

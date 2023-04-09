@@ -1,0 +1,10 @@
+-Animal can eat
+-Animal can starve
+-Animal getEaten
+
+-Add animal to biome
+-Remove animal
+
+-Simulation running
+
+-Map generation
